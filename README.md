@@ -5,7 +5,7 @@ Go标准库的中文版Dash文档,方便在Dash中查看方法函数的中文解
 大感谢GCTT翻译组的同学
 
 
-**_NOTICE_** 存在一些跳转问题，后续会继续修改。
+**_NOTICE!!_** 存在一些跳转问题，后续会继续修改。
 # Install
 * `git clone https://github.com/taigacute/GoDoc-CN.git`
 * `Dash`-->`preferences` -->`Add local DocSet`
