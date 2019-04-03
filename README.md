@@ -12,3 +12,5 @@ Go标准库的中文版Dash文档,方便在Dash中查看方法函数的中文解
 
 # Gif
 ![img](https://github.com/taigacute/IMG/blob/master/Dash/gocn.gif)
+# LICENSE
+MIT LICENSE
