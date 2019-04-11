@@ -9,6 +9,7 @@ Go标准库的中文版Dash文档,方便在Dash中查看方法函数的中文解
 # Install
 * `git clone https://github.com/taigacute/GoDoc-CN.git`
 * `Dash`-->`preferences` -->`Add local DocSet`
+* change the keyword `GoDocCN:` to `go:`
 
 # Gif
 ![img](https://github.com/taigacute/IMG/blob/master/Dash/gocn.gif)
