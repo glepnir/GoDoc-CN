@@ -12,6 +12,6 @@ Go标准库的中文版Dash文档,方便在Dash中查看方法函数的中文解
 * change the keyword `GoDocCN:` to `go:`
 
 # Gif
-![img](https://github.com/taigacute/IMG/blob/master/Dash/gocn.gif)
+![img](https://user-images.githubusercontent.com/41671631/79725149-5dd7c980-831b-11ea-8579-f454720e0a76.png)
 # LICENSE
 MIT LICENSE
